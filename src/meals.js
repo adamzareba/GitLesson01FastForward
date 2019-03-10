@@ -6,3 +6,4 @@ meals.forEach(function(currentValue, index, arr){
 });
 
 var mealsCopy = meals.slice();
+
